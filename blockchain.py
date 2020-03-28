@@ -1,5 +1,4 @@
-# Blockchain
-# Udemy course
+# Udemy Blockchain
 
 class Block:
     """
