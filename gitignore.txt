@@ -1,4 +1,4 @@
 blockchain-env/
 backend/
-frontend/
+/frontend/
 requirements.txt
