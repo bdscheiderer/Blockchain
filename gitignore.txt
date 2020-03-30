@@ -1,4 +1,2 @@
-blockchain-env/
-backend/
-frontend/*
 requirements.txt
+frontend/
