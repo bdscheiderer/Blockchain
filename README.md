@@ -6,17 +6,18 @@
 
 **Activate the virtual environment**
 
-'''
+```
 source blockchain-env/bin/Activate
-'''
+```
 
-**Install all packages***
-
-
+**Install all packages**
+```
+pip3 install -r requirements.txt
+```
 
 **Basic git/github commands**
-'''
+```
 git add .
 git commit -m "message"
 git push origin master
-'''
+```
