@@ -15,6 +15,12 @@ source blockchain-env/bin/activate
 pip3 install -r requirements.txt
 ```
 
+**Run tests**
+Make sure to activate virtual env:
+```
+python3 -m pytest backend/tests
+```
+
 **Basic git/github commands**
 ```
 git add .
