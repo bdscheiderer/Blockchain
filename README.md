@@ -19,6 +19,12 @@ Make sure to activate virtual env:
 python3 -m pytest backend/tests
 ```
 
+**Run the application and API**
+Make sure to activate virtual env:
+```
+python3 -m backend.app
+```
+
 **Basic git/github commands**
 ```
 git add .
